@@ -158,7 +158,7 @@ You can add screenshots like this:
 
 - ![S_curve](./S_curve.png)
 - ![Poisson_Distribution](./Poisson_Distribution.png)
-- ![Q-Q_Plot](./Q-Q_Plot.png)
+- ![Q-Q_plot](./Q-Q_plot.png)
 - ![Log_normal](./Log_normal.png)
 
 # 📌 Conclusion
@@ -169,3 +169,4 @@ This project demonstrates how statistical distributions and probability theory c
 
 # 👨‍💻 Author
 Janki Dholariya
+
